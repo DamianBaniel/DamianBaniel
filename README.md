@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Damian Baniel
-- 👀 I’m interested in Time series and stock market.
+- 👀 I’m interested in Data Engineering.
 - 💞️ I’m looking to collaborate on Data Science project.
 - 📫 How to reach me baniel.damian@gmail.com
 
